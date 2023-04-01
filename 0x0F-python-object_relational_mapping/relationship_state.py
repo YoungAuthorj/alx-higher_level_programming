@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pulls
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@YoungAuthorj 
-proyirga
-/
-alx-higher_level_programming
-Public
-Fork your own copy of proyirga/alx-higher_level_programming
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0F-python-object_relational_mapping/relationship_state.py /
-@yirgamulaw
-yirgamulaw 0x0F-python-object_relational_mapping
-Latest commit f0602b7 2 weeks ago
- History
- 1 contributor
-Executable File  26 lines (21 sloc)  745 Bytes
-
 #!/usr/bin/python3
 """
 This script defines a State class and
